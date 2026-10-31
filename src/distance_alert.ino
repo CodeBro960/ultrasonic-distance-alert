@@ -1,10 +1,6 @@
 /*
   Ultrasonic Distance Alert System
   Hardware: Elegoo Uno R3, HC-SR04 Sensor, Passive Buzzer
-  
-  Connections:
-    - HC-SR04 VCC -> 5V, GND -> GND, Trig -> Pin 9, Echo -> Pin 8
-    - Passive Buzzer -> Pin 7 and GND
 */
 
 const int TRIG_PIN = 9;
