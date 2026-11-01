@@ -55,4 +55,5 @@ A precision-engineered proximity monitoring and acoustic alert system built usin
 ### Telemetry Output
 ![Serial Monitor](docs/serial-monitor-output.png)
 
+### Video Demo
 [![Watch the Project Demo](https://img.youtube.com/vi/sNEWYU1va_E/0.jpg)](https://www.youtube.com/shorts/sNEWYU1va_E)
