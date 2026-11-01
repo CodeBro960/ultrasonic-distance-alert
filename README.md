@@ -50,7 +50,7 @@ A precision-engineered proximity monitoring and acoustic alert system built usin
 ## Visual Documentation
 
 ### Hardware Assembly
-![Hardware Setup](docs/weather-light-monitoring-station-Circuits-Setup.png)
+![Hardware Setup](docs/Hardware_Setup.png)
 
 ### Telemetry Output
-![Serial Monitor](docs/Serial-monitor-Output.png)
+![Serial Monitor](docs/serial-monitor-output.png)
